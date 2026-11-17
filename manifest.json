@@ -1,0 +1,13 @@
+{
+  "id": "com.quicklauncher.github.pinyin",
+  "name": "拼音注音",
+  "description": "将输入或选中的中文转为带声调的拼音并复制",
+  "keyword": "py",
+  "version": "1.0.0",
+  "author": "QuickLauncher",
+  "runtime": "python",
+  "entry": "main.py",
+  "input": "arguments",
+  "acceptsSelectedText": true,
+  "sourceURL": "https://github.com/peiel/quicklauncher-pinyin-plugin"
+}
